@@ -29,4 +29,4 @@ The process concludes with a dedicated reporting and error-handling layer:
 * **Global Error Handling:** A robust `CATCH` block captures fatal errors, logs the full stack trace, and triggers immediate failure alerts.
 ---
 
-> This repository is for **viewing purposes only**. The source code, architecture, and logic contained herein are private property. No part of this project may be cloned, copied, reproduced, or distributed in any form without express written permission from the author.
+> This repository is for **viewing purposes only**.
