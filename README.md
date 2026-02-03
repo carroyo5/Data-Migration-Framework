@@ -8,6 +8,7 @@ The primary objective of this repository is to **demonstrate advanced T-SQL engi
 ## Process Architecture & Logic
 
 The system is built around a **Central Orchestrator** (`sp_orchestrator`), which manages the entire execution lifecycle, ensuring data consistency and operational stability through a modular pipeline.
+![ETL Process Diagram](sp_orchestrator.svg)
 
 ### 1. Initialization & Validation
 Before any data movement occurs, the system performs a rigorous pre-flight check:
